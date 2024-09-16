@@ -1,15 +1,4 @@
-## Hey  Fellas
-<a href="https://github.com/ayoubaitouhmad" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-
-
-<a href="https://www.linkedin.com/in/ayoubaitouhmad/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
-
-### Me
+## About Me
 As a Full Stack Developer and Team Leader, I create web applications using the latest web technologies, such as JavaScript and Node.js. I have a passion for learning new software development and coding skills, and I enjoy working on challenging and innovative projects.
 
 I have over a year of experience as a freelancer, working remotely or on-site for various clients. I have successfully completed multiple web scraping projects, delivering high-quality data and insights. I also have a Diploma of Education in Computer Software Engineering from ISTA Hay Adarissa- fes, where I learned the fundamentals of web development and software engineering.
@@ -21,10 +10,8 @@ My goal is to leverage my skills and experience to contribute to the growth and 
 
   
 
-
-
 ## Languages I Speak
-<div align="center">  
+<div align="left">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
@@ -43,5 +30,7 @@ My goal is to leverage my skills and experience to contribute to the growth and 
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="25" /></a>  
 </div>  
+
+<br/>  
 
 
