@@ -44,14 +44,4 @@ My goal is to leverage my skills and experience to contribute to the growth and 
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="25" /></a>  
 </div>  
 
-<br/>  
-
-
-
-<br/>  
-
-![0](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)
-
-
-<br/>  
 
