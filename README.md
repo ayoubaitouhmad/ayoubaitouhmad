@@ -50,7 +50,7 @@ My goal is to leverage my skills and experience to contribute to the growth and 
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)
+![0](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)
 
 
 <br/>  
