@@ -1,13 +1,5 @@
 ## About Me
-As a Full Stack Developer and Team Leader, I create web applications using the latest web technologies, such as JavaScript and Node.js. I have a passion for learning new software development and coding skills, and I enjoy working on challenging and innovative projects.
-
-I have over a year of experience as a freelancer, working remotely or on-site for various clients. I have successfully completed multiple web scraping projects, delivering high-quality data and insights. I also have a Diploma of Education in Computer Software Engineering from ISTA Hay Adarissa- fes, where I learned the fundamentals of web development and software engineering.
-Currently, I am pursuing a master’s degree in software engineering in my first year.
-
-
-My goal is to leverage my skills and experience to contribute to the growth and success of the organizations I work with, and to keep expanding my knowledge and expertise in the web development field. I value collaboration, creativity, and customer satisfaction, and I strive to deliver solutions that meet or exceed expectations.
-
-
+Software engineer
   
 
 ## Languages I Speak
